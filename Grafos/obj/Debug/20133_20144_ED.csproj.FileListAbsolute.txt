@@ -1,0 +1,20 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\projeto\20133_20144_ED\20133_20144_ED\bin\Debug\20133_20144_ED.exe.config
+C:\Users\Usuario\OneDrive\Área de Trabalho\projeto\20133_20144_ED\20133_20144_ED\bin\Debug\20133_20144_ED.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\projeto\20133_20144_ED\20133_20144_ED\bin\Debug\20133_20144_ED.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\projeto\20133_20144_ED\20133_20144_ED\obj\Debug\20133_20144_ED.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\projeto\20133_20144_ED\20133_20144_ED\obj\Debug\_20133_20144_ED.Form1.resources
+C:\Users\Usuario\OneDrive\Área de Trabalho\projeto\20133_20144_ED\20133_20144_ED\obj\Debug\_20133_20144_ED.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Área de Trabalho\projeto\20133_20144_ED\20133_20144_ED\obj\Debug\20133_20144_ED.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\projeto\20133_20144_ED\20133_20144_ED\obj\Debug\20133_20144_ED.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\projeto\20133_20144_ED\20133_20144_ED\obj\Debug\20133_20144_ED.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\projeto\20133_20144_ED\20133_20144_ED\obj\Debug\20133_20144_ED.pdb
+C:\Users\user\Downloads\Projetinho\20133_20144_ED\bin\Debug\20133_20144_ED.exe.config
+C:\Users\user\Downloads\Projetinho\20133_20144_ED\bin\Debug\20133_20144_ED.exe
+C:\Users\user\Downloads\Projetinho\20133_20144_ED\bin\Debug\20133_20144_ED.pdb
+C:\Users\user\Downloads\Projetinho\20133_20144_ED\obj\Debug\20133_20144_ED.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Projetinho\20133_20144_ED\obj\Debug\_20133_20144_ED.Form1.resources
+C:\Users\user\Downloads\Projetinho\20133_20144_ED\obj\Debug\_20133_20144_ED.Properties.Resources.resources
+C:\Users\user\Downloads\Projetinho\20133_20144_ED\obj\Debug\20133_20144_ED.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Projetinho\20133_20144_ED\obj\Debug\20133_20144_ED.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Projetinho\20133_20144_ED\obj\Debug\20133_20144_ED.exe
+C:\Users\user\Downloads\Projetinho\20133_20144_ED\obj\Debug\20133_20144_ED.pdb
